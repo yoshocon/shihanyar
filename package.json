@@ -1,0 +1,12 @@
+{
+  "name": "shihanyar",
+  "version": "0.0.1",
+  "description": "Who is shihanyar?",
+  "main": "index.js",
+  "keywords": [],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ddsakura/npm-helloworld.git"
+  }
+}
