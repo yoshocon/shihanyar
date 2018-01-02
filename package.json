@@ -1,12 +1,20 @@
 {
   "name": "shihanyar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Who is shihanyar?",
   "main": "index.js",
   "keywords": [],
-  "repository":
-  {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/ddsakura/npm-helloworld.git"
-  }
+    "url": "git+https://github.com/yoshocon/shihanyar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yoshocon/shihanyar/issues"
+  },
+  "homepage": "https://github.com/yoshocon/shihanyar#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoshocon",
+  "license": "ISC"
 }
