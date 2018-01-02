@@ -3,7 +3,7 @@ var are_you_shihanyar = (function()
     var name = '未命名';
     return
     {
-        shihanyar: function(shihanyar_name)
+        you_are_a_shihanyar: function(shihanyar_name)
         {
             return (shihanyar_name || name) + ' , 你喜憨爾？';
         }
